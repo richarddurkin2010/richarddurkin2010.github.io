@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../ODU Paperwork and Information/Python Projects/.idea/Python Projects.iml" filepath="$PROJECT_DIR$/../../../ODU Paperwork and Information/Python Projects/.idea/Python Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/richarddurkin2010.github.io.iml" filepath="$PROJECT_DIR$/.idea/richarddurkin2010.github.io.iml" />
     </modules>
   </component>
